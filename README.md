@@ -4,7 +4,7 @@ Hello, I am Chandrabhan Rahangdale <br>
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-♂️ Pronouns (He/His/Him)
+♂️ Pronouns (He/His/Him) <br>
 📍 I live in Nagpur, India. 
 I am currently working with technologies based on Javascript. Technologies such as ReactJS, ExpressJs, NodeJS.
 I usually work with design systems and ui-component based react projects and make complex and beautiful components.
